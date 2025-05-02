@@ -24,6 +24,6 @@ A sleek and simple Password Strength Checker web app built using HTML, CSS, and 
 ---
 
 ## 📂 Getting Started
-1. Visit the live app here: [Calculator App](https://yahyanawabi.github.io/Password-Strength-Checker/)
+1. Visit the live app here: [Password Strength Checker](https://yahyanawabi.github.io/Password-Strength-Checker/)
 
 
